@@ -393,7 +393,7 @@ text-align: center;
   color: white;
 }
 
-@media screen and (max-width:1024px) {
+@media (max-width:1024px) {
   .reseaux {
     width: 37%;
 
@@ -406,7 +406,7 @@ text-align: center;
 
     }
     .photo {
-      width: 14.1%;
+      width: 13.8%;
       height: 10em;
     }
     .progress1{

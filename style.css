@@ -238,9 +238,13 @@ h3{
 }
 
 footer{
-  background-color: hsl(0, 0%, 21%);
-  color: white;
-  margin-top: 3em;
+
+      bottom:0; left:0; right:0;
+      position:relative;
+      background-color: hsl(0, 0%, 21%);
+      color: white;
+      padding: 20px 0px;
+      margin-top: 3em;
 
 }
 
@@ -357,16 +361,19 @@ text-align: center;
 
 }
 
-.liengit{
-  color: white;
-  margin-left: 0.5em;
-}
-
 .lienlinkedin{
+  margin-left: 1em;
   color: white;
-  margin-left: 7em;
 }
 
+.liengit{
+  margin-left: 12.5em;
+  color: white;
+}
+
+.cv{
+  margin-left: 5em;
+}
 .card.experience{
   background-color: hsl(0, 0%, 21%);
   color: white;
@@ -388,7 +395,7 @@ text-align: center;
 
 @media screen and (max-width:1024px) {
   .reseaux {
-    width: 35%;
+    width: 38%;
     margin-top: 1.5em;
 
   }
@@ -445,9 +452,26 @@ text-align: center;
   margin-right: 35.4em;
 }
 
-
+.lienlinkedin{
+  margin-left: 1em;
 }
 
+.liengit{
+  margin-left: 10em;
+}
+
+.cv{
+  margin-left: 5em;
+}
+
+  footer{
+      bottom:0; left:0; right:0;
+      position:relative;
+      background-color: hsl(0, 0%, 21%);
+      color: white;
+      padding: 30px 0px;
+  }
+}
  .git2{
   margin-left: 1em;
 }

@@ -1,0 +1,524 @@
+body{
+  font-size: 2em;
+  width: 100%;
+  font-family: Pacifico;
+  min-width: 1000px;
+  background-color : hsl(0, 0%, 96%);
+
+}
+
+h3{
+  text-align: center;
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+
+.photo {
+  width: 11.7%;
+  height: 10.5em;
+}
+
+.header{
+  height: 10em;
+}
+
+
+.languages1{
+  width: 66.3%;
+  display: inline-flex;
+}
+
+.languages{
+  width: 55em;
+  height: 17em;
+}
+
+.agile{
+  width: 33%;
+  display: inline-flex;
+}
+
+.langage3{
+  margin-bottom: 1em;
+}
+
+.outils4{
+  margin-bottom: 1em;
+}
+
+.projets4{
+  width: 33%;
+  display: inline-flex;
+}
+
+.projetscard{
+  width: 55em;
+  height: 20em;
+}
+
+.projets1card{
+  width: 35em;
+  height: 20em;
+}
+.projets3{
+  width: 66.3%;
+  display: inline-flex;
+  margin-top: 3em;
+}
+
+.experiences6{
+  width: 66.3%;
+  display: inline-flex;
+}
+
+.experiences3{
+  width: 30em;
+  height: 17em;
+}
+
+.card.experiences3{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+.card.experience5{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+.experience5{
+  width: 55em;
+  height: 17em;
+}
+.experiences4{
+  width: 33%;
+  display: inline-flex;
+}
+
+.projets6{
+  margin-left: 2em;
+  margin-top: 3em;
+}
+
+.projets7{
+  margin-left: 2em;
+  margin-top: 3em;
+}
+
+
+.methodes{
+  width: 35em;
+  height: 17em;
+}
+
+.techno5{
+  margin-top: 3em;
+  margin-left: 2em;
+}
+
+.outils3{
+  margin-top: 3em;
+  margin-left: 1em
+}
+
+.card.languages{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+.card.projets1card{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+.card.methodes{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+
+.competences{
+  display: flex;
+}
+
+.langages{
+  width: 33%;
+  display: inline-flex;
+
+}
+
+.progress1{
+  margin-top: 1em;
+  width: 15em;
+  margin-left: 4.7em;
+}
+
+.progress2{
+  margin-top: 1em;
+  width: 15em;
+  margin-left: 4.7em;
+}
+
+.progress3{
+  margin-top: 1em;
+  width: 15em;
+  margin-left: 4.7em;
+}
+
+
+.technologies{
+  width: 33%;
+  display: inline-flex;
+
+}
+
+.outils{
+  width: 33%;
+  display: inline-flex;
+
+}
+
+.langage1{
+  width: 27em;
+  height: 15em;
+}
+
+.card.langage1{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+.card.techno1{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+.card.outils1{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+/*.projets3{
+  margin-top: 3em;
+  margin-left: 4.7em;
+}*/
+
+.skill{
+  margin-top:0.5em;
+  margin-bottom: 0.5em; 
+}
+
+.formations5{
+  margin-top: 3em;
+}
+
+.outils1{
+  width: 27em;
+  height: 15em;
+}
+
+.projets{
+  margin-top: 3em;
+}
+
+.techno1{
+  width: 27em;
+  height: 15em;
+  margin-bottom: 0.5em;
+}
+
+.kopane{
+  margin-left: 0.5em;
+  color: white;
+}
+
+.projet2{
+  color: white;
+}
+
+footer{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+  margin-top: 3em;
+
+}
+
+hr{
+  background-color : hsl(0, 0%, 96%);
+}
+
+.column{
+  margin-top: 2em;
+}
+
+.kopanetext{
+  margin-bottom: 2em;
+}
+
+.experience{
+  margin-top: 3em;
+}
+
+.experiences{
+  margin-top: 3em;
+}
+
+.experiences2{
+  margin-left: 4.7em;
+}
+
+.experiences1{
+  margin-left: 4.7em;
+}
+
+.plomberie{
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
+.maintenance1{
+  margin-left: 2em;
+  margin-top: 2em;
+}
+
+.plomberie1{
+  margin-left: 2em;
+  margin-top: 2em;
+}
+
+.maintenance{
+  margin-bottom: 1em;
+  margin-top: 3em;
+}
+
+.xp{
+  margin-right: 0.5em;
+}
+
+.formations2{
+ margin-left: 20em;
+
+}
+
+.formations1{
+  margin-left: 4.7em;
+}
+
+.formations3{
+  margin-left: 4.7em;
+}
+
+.gestion{
+  margin-right: 18.5em;
+}
+
+
+.universiti{
+   margin-top: 3em;
+   margin-bottom: 1em;
+}
+
+.university{
+  margin-right: 0.5em;
+  margin-bottom: 1em;
+}
+
+/*.plomberie{
+  margin-right: 50em;
+}*/
+.pro1{
+  width: 27em;
+  height: 15em;
+}
+
+.pro2{
+  width: 27em;
+  height: 15em;
+}
+
+.langagetechno{
+  margin-right: 9em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+
+.description {
+width: 30%;
+margin-top : 3.5em;
+margin-left: 12.5em;
+text-align: center;
+
+}
+.reseaux {
+  width: 30%;
+  margin-top: 2em;
+
+}
+
+.liengit{
+  color: white;
+  margin-left: 0.5em;
+}
+
+.lienlinkedin{
+  color: white;
+  margin-left: 7em;
+}
+
+.card.experience{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+  height: 15em;
+  margin-bottom: 5em;
+}
+
+.exp{
+  margin-right: 0.5em;
+  margin-bottom: 1.5em;
+}
+
+.container1{
+  display : inline-flex;
+  justify-content: space-between;
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+@media screen and (max-width:1024px) {
+  .reseaux {
+    width: 35%;
+    margin-top: 1.5em;
+
+  }
+  .description {
+    width: 35%;
+    margin-top : 3em;
+    margin-left: 13em;
+    text-align: center;
+
+    }
+    .photo {
+      width: 11%;
+      height: 9em;
+      margin-top: 0.5em;
+    }
+    .progress1{
+  margin-top: 1em;
+  width: 15em;
+  margin-left: 3em;
+}
+
+.progress2{
+  margin-top: 1em;
+  width: 15em;
+  margin-left: 3em;
+}
+
+.progress3{
+  margin-top: 1em;
+  width: 15em;
+  margin-left: 3em;
+}
+.formations2{
+ margin-left: 15em;
+
+}
+
+.formations1{
+  margin-left: 23em;
+}
+
+.formations3{
+  margin-left: 15em;
+}
+.column{
+  margin-top: 1em;
+}
+
+.langagetechno{
+  margin-right: 36.1em;
+}
+
+.gestion{
+  margin-right: 35.4em;
+}
+
+
+}
+
+ .git2{
+  margin-left: 1em;
+}
+
+.maison{
+  margin-left: 1em;
+}
+
+.compétences{
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
+
+.mail{
+  margin-left: 1em;
+}
+
+.adressemail{
+  margin-left: 4.4em;
+}
+
+
+.num{
+  margin-left: 12.8em;
+}
+
+.card.formationscard{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+  height: 22em;
+}
+
+.card.projetscard{
+  background-color: hsl(0, 0%, 21%);
+  color: white;
+}
+
+.simplon{
+  text-align: center;
+}
+
+.pseudo{
+  margin-left: 12.2em;
+}
+
+
+.nom{
+  margin-left: 10.8em;
+}
+
+.adresse{
+  margin-left: 9.6em;
+}
+
+.coding{
+  margin-right: 0.5em;
+}
+
+.skill{
+  margin-right: 0.6em;
+}
+
+.phone{
+  margin-left: 1em;
+}
+
+.linkedin{
+  margin-left: 1em;
+}
+
+
+
+

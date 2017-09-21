@@ -395,8 +395,7 @@ text-align: center;
 
 @media screen and (max-width:1024px) {
   .reseaux {
-    width: 38%;
-    margin-top: 1.5em;
+    width: 37%;
 
   }
   .description {

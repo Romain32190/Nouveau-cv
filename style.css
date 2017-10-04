@@ -16,7 +16,7 @@ h3{
 
 .photo {
   width: 11.7%;
-  height: 10.5em;
+  height: 100%;
 }
 
 .header{
@@ -361,6 +361,12 @@ text-align: center;
 
 }
 
+@media print{
+  body{
+   font-size: 10pt;
+   line-height: 1.2;
+  }
+}
 .lienlinkedin{
   margin-left: 1em;
   color: white;
@@ -407,7 +413,7 @@ text-align: center;
     }
     .photo {
       width: 13.8%;
-      height: 10em;
+      height: 100%;
     }
 
 
